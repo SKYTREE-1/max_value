@@ -1,3 +1,8 @@
+```template
+let data = [23, 58, 41, 76, 35]
+```
+
+
 # Let's find max value!
 
 ## 最大値を求めよう @showdialog
