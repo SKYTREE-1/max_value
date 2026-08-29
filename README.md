@@ -1,6 +1,28 @@
 
 > このページを開く [https://skytree-1.github.io/max_value/](https://skytree-1.github.io/max_value/)
 
+[チュートリアル全体を表示](https://skytree-1.github.io/max_value/tutorial)
+
+# 素数判定プログラム
+
+配列の要素の最大値を求めるプログラムを作りながら、
+条件分岐や繰り返しについて学ぶチュートリアルです。
+
+## このチュートリアルで学ぶこと
+
+- 配列の要素の最大値を見つける方法
+- 繰り返し処理を使って調べる方法
+
+## チュートリアル
+
+詳しい手順は `tutorial.md` を参照してください。
+
+## 実行
+
+* [チュートリアルを実行](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/max_value/tutorial) 
+
+
+
 ## 拡張機能として使用
 
 このリポジトリは、MakeCode で **拡張機能** として追加できます。
