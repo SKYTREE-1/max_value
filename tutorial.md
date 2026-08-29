@@ -1,8 +1,3 @@
-```template
-let data = [23, 58, 41, 76, 35]
-```
-
-
 # Let's find max value!
 
 ## 最大値を求めよう @showdialog
@@ -23,6 +18,11 @@ max と 配列のi番目の要素を比較して、大きい方を max とする
 
 ## STEP1-1 変数の作成
 ``||variables:変数を追加する||`` から、個の変数 i, max を作成します。
+
+```template
+let data = [23, 58, 41, 76, 35]
+```
+
 
 ## STEP1-2 仮の数値の代入 
 ``||input:ボタン A が押されたとき||``を配置して、``||variables:変数 〜 を〜にする||`` ブロックを使って、``||variables:変数 max||`` を ``||array:配列の0番目の値||``にして、``||variables:配列||`` を``||variables:data||``  にします。
