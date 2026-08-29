@@ -1,4 +1,6 @@
-
+```template
+let data = [23, 58, 41, 76, 35]
+```
 > このページを開く [https://skytree-1.github.io/max_value/](https://skytree-1.github.io/max_value/)
 
 [チュートリアル全体を表示](https://skytree-1.github.io/max_value/tutorial)
