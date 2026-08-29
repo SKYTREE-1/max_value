@@ -21,3 +21,7 @@
 
 * [チュートリアルを実行](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/max_value/tutorial) 
 
+
+```template
+let data = [23, 58, 41, 76, 35]
+```
