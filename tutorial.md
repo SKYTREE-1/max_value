@@ -2,6 +2,7 @@
 
 ## 最大値を求めよう @showdialog
 
+
 ![Let's find prime numbers!](https://skytree-1.github.io/max_value/images/img01.png)
 
 
