@@ -2,7 +2,7 @@
 
 ## 最大値を求めよう @showdialog
 
-![Let's find prime numbers!](/static/tutorials/image01.png)
+![Let's find prime numbers!](https://skytree-1.github.io/max_value/images/img01.png)
 
 
 
@@ -13,7 +13,7 @@
 i が 0番目から (配列の長さ - 1)番目まで i を増やしながら、
 max と 配列のi番目の要素を比較して、大きい方を max とする。
 
-![操作の考え方](/static/tutorials/image02.png)
+![操作の考え方](https://skytree-1.github.io/max_value/images/img02.png)
 
 
 ## STEP1-1 変数の作成
@@ -139,4 +139,5 @@ data = [
 ```
 
 ## 完成！@showdialog
-![Let's Make a Function!](/static/tutorials/image03.png)
+
+![完成！](https://skytree-1.github.io/max_value/images/img03.png)
