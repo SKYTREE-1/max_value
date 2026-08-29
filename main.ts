@@ -6,5 +6,5 @@ let data = [
 35
 ]
 basic.forever(function () {
-	basic.shownumber(data(0))
+	basic.showNumber(data[0])
 })
